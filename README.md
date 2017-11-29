@@ -1,0 +1,3 @@
+# bacamasuk
+
+ini baca masuk
